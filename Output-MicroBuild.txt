@@ -1,0 +1,37 @@
+﻿Compiling 'PentairMQTT' for 'Adafruit Feather M0 (Native USB Port)'
+Program size: 32,592 bytes (used 12% of a 262,144 byte maximum) (3.10 secs)
+ 
+Uploading 'PentairMQTT' to 'Adafruit Feather M0 (Native USB Port)' using 'COM4'
+Atmel SMART device 0x10010005 found
+Device       : ATSAMD21G18A
+Chip ID      : 10010005
+Version      : v2.0 [Arduino:XYZ] Mar  5 2016 17:46:52
+Address      : 8192
+Pages        : 3968
+Page Size    : 64 bytes
+Total Size   : 248KB
+Planes       : 1
+Lock Regions : 16
+Locked       : none
+Security     : false
+Boot Flash   : true
+BOD          : true
+BOR          : true
+Arduino      : FAST_CHIP_ERASE
+Arduino      : FAST_MULTI_PAGE_WRITE
+Arduino      : CAN_CHECKSUM_MEMORY_BUFFER
+Erase flash
+done in 0.788 seconds
+Write 33532 bytes to flash (524 pages)
+[===                           ] 12% (64/524 pages)
+[=======                       ] 24% (128/524 pages)
+[==========                    ] 36% (192/524 pages)
+[==============                ] 48% (256/524 pages)
+[==================            ] 61% (320/524 pages)
+[=====================         ] 73% (384/524 pages)
+[=========================     ] 85% (448/524 pages)
+[============================= ] 97% (512/524 pages)
+	The upload process has finished.
+[==============================] 100% (524/524 pages)
+done in 0.205 seconds
+CPU reset.
